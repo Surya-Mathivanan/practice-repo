@@ -29,10 +29,10 @@ git config --global user.email "your.email@example.com"
 
 ```
 **Purpose:** The git config command sets your username and email address. This information is attached to each commit to associate changes with your identity.
+
 https://github.com/user-attachments/assets/e3905e94-4b8f-4523-b7d2-15312f979e1b
 
 
----
 
 ## 4.Open VS Code
 **Why?** VS Code is a powerful code editor with Git support.
@@ -70,7 +70,7 @@ git clone <repository-url>
 Replace <repository-url> with your GitHub repo link.
 ```
 https://github.com/user-attachments/assets/c3c552a6-bbb6-4fdf-b708-634e51a0f1ed
----
+
 ## 8.Navigate to the Cloned Folder
 **Why?** Ensures you're working in the correct project directory.
 
